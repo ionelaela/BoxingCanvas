@@ -1,6 +1,6 @@
 # BoxingCanvas
 
-Boxing Canvas is an interactive web application that combines **Computer Vision and Generative Art**, transforming hand movements into unique digital artworks.
+Boxing Canvas is an interactive web application that combines *Computer Vision and Generative Art*, transforming hand movements into unique digital artworks.
 
 *Technologies* : 
 
