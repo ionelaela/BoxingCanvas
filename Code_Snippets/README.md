@@ -4,7 +4,7 @@ This folder contains a small, curated selection of implementation excerpts from 
 
 ## *Selected implementation areas*
 
-| File | What it demonstrates |
+| *File* | *What it demonstrates* |
 |---|---|
 | [01_hand_tracking_and_motion.py](01_hand_tracking_and_motion.py) | MediaPipe hand landmarks and frame-to-frame movement measurement |
 | [02_punch_recognition.py](02_punch_recognition.py) | Experimental punch classification using movement direction |
